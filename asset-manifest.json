@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Gallery.io/static/css/main.e4088998.chunk.css",
+    "main.js": "/React-Gallery.io/static/js/main.4d015400.chunk.js",
+    "main.js.map": "/React-Gallery.io/static/js/main.4d015400.chunk.js.map",
+    "runtime-main.js": "/React-Gallery.io/static/js/runtime-main.7392ad9f.js",
+    "runtime-main.js.map": "/React-Gallery.io/static/js/runtime-main.7392ad9f.js.map",
+    "static/js/2.15271f67.chunk.js": "/React-Gallery.io/static/js/2.15271f67.chunk.js",
+    "static/js/2.15271f67.chunk.js.map": "/React-Gallery.io/static/js/2.15271f67.chunk.js.map",
+    "index.html": "/React-Gallery.io/index.html",
+    "precache-manifest.6f9537adf5ca994c616e9ab8358279b8.js": "/React-Gallery.io/precache-manifest.6f9537adf5ca994c616e9ab8358279b8.js",
+    "service-worker.js": "/React-Gallery.io/service-worker.js",
+    "static/css/main.e4088998.chunk.css.map": "/React-Gallery.io/static/css/main.e4088998.chunk.css.map",
+    "static/js/2.15271f67.chunk.js.LICENSE.txt": "/React-Gallery.io/static/js/2.15271f67.chunk.js.LICENSE.txt",
+    "static/media/hero.jpg": "/React-Gallery.io/static/media/hero.0e0fd452.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7392ad9f.js",
+    "static/js/2.15271f67.chunk.js",
+    "static/css/main.e4088998.chunk.css",
+    "static/js/main.4d015400.chunk.js"
+  ]
+}
