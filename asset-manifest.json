@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/React-Gallery.io/static/css/main.68b5cc0f.chunk.css",
-    "main.js": "/React-Gallery.io/static/js/main.d84b8914.chunk.js",
-    "main.js.map": "/React-Gallery.io/static/js/main.d84b8914.chunk.js.map",
+    "main.css": "/React-Gallery.io/static/css/main.94411545.chunk.css",
+    "main.js": "/React-Gallery.io/static/js/main.995a7813.chunk.js",
+    "main.js.map": "/React-Gallery.io/static/js/main.995a7813.chunk.js.map",
     "runtime-main.js": "/React-Gallery.io/static/js/runtime-main.7392ad9f.js",
     "runtime-main.js.map": "/React-Gallery.io/static/js/runtime-main.7392ad9f.js.map",
-    "static/js/2.15271f67.chunk.js": "/React-Gallery.io/static/js/2.15271f67.chunk.js",
-    "static/js/2.15271f67.chunk.js.map": "/React-Gallery.io/static/js/2.15271f67.chunk.js.map",
+    "static/js/2.ccb8b99f.chunk.js": "/React-Gallery.io/static/js/2.ccb8b99f.chunk.js",
+    "static/js/2.ccb8b99f.chunk.js.map": "/React-Gallery.io/static/js/2.ccb8b99f.chunk.js.map",
     "index.html": "/React-Gallery.io/index.html",
-    "precache-manifest.369dee265340e9b61ff207faf6f7e5f6.js": "/React-Gallery.io/precache-manifest.369dee265340e9b61ff207faf6f7e5f6.js",
+    "precache-manifest.5c7d1cef596f6fd99031d8774516d6a6.js": "/React-Gallery.io/precache-manifest.5c7d1cef596f6fd99031d8774516d6a6.js",
     "service-worker.js": "/React-Gallery.io/service-worker.js",
-    "static/css/main.68b5cc0f.chunk.css.map": "/React-Gallery.io/static/css/main.68b5cc0f.chunk.css.map",
-    "static/js/2.15271f67.chunk.js.LICENSE.txt": "/React-Gallery.io/static/js/2.15271f67.chunk.js.LICENSE.txt",
-    "static/media/hero.jpg": "/React-Gallery.io/static/media/hero.0e0fd452.jpg"
+    "static/css/main.94411545.chunk.css.map": "/React-Gallery.io/static/css/main.94411545.chunk.css.map",
+    "static/js/2.ccb8b99f.chunk.js.LICENSE.txt": "/React-Gallery.io/static/js/2.ccb8b99f.chunk.js.LICENSE.txt",
+    "static/media/hero.jpg": "/React-Gallery.io/static/media/hero.0e0fd452.jpg",
+    "static/media/img-03.jpg": "/React-Gallery.io/static/media/img-03.4b55adc4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7392ad9f.js",
-    "static/js/2.15271f67.chunk.js",
-    "static/css/main.68b5cc0f.chunk.css",
-    "static/js/main.d84b8914.chunk.js"
+    "static/js/2.ccb8b99f.chunk.js",
+    "static/css/main.94411545.chunk.css",
+    "static/js/main.995a7813.chunk.js"
   ]
 }
